@@ -145,7 +145,7 @@ If you liked it, felt the vibe, or found inspiration:
 📧 **Email:** [jeevanj020604@gmail.com](mailto:jeevanj020604@gmail.com)<br>
 🌐 **Portfolio:** [https://jeevab-jadhav-portfolio-xe9j.vercel.app/](https://jeevab-jadhav-portfolio-xe9j.vercel.app/)
 
-<img src="https://i.pinimg.com/originals/5c/74/a1/5c74a1a8bc0f8606ce8d784df61fb2f5.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/5c/74/a1/5c74a1a8bc0f8606ce8d784df61fb2f5.gif" width="80%"/>
 
 ### 🌀 DATTEBAYO! 🌀
 
