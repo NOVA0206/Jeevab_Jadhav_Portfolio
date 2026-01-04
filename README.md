@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://wallpapercave.com/wp/wp12836470.jpg" width="100%" />
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/12191.jpg" width="100%" />
 
 # 🔥 Jeevan Jadhav — Shinobi Portfolio 🔥
 
@@ -65,8 +65,7 @@ A working contact form to directly reach me.
 ## 🎥 Naruto Vibe Preview
 
 <p align="center">
-  <img src="https://media.tenor.com/9vRa1a1d0pYAAAAC/naruto-run.gif" width="300"/>
-  <img src="https://media.tenor.com/4y0kTtGJpY8AAAAC/naruto-fire.gif" width="300"/>
+  <img src="/public/projects/Website.png" width="60%"/>
 </p>
 
 ---
@@ -101,7 +100,7 @@ A working contact form to directly reach me.
 
 ```bash
 git clone https://github.com/NOVA0206/Jeevab_Jadhav_Portfolio.git
-cd Portfolio_Nine_using_Next.js
+cd Jeevab_Jadhav_Portfolio
 npm install
 npm run dev
 ````
@@ -142,8 +141,8 @@ If you liked it, felt the vibe, or found inspiration:
 
 ## 👨‍💻 Author
 
-**Name:** Jeevan Ramesh Jadhav
-📧 **Email:** [jeevanj020604@gmail.com](mailto:jeevanj020604@gmail.com)
+**Name:** Jeevan Ramesh Jadhav<br>
+📧 **Email:** [jeevanj020604@gmail.com](mailto:jeevanj020604@gmail.com)<br>
 🌐 **Portfolio:** [https://jeevab-jadhav-portfolio-xe9j.vercel.app/](https://jeevab-jadhav-portfolio-xe9j.vercel.app/)
 
 <img src="https://media.tenor.com/JxXyY8Zc1PAAAAAC/naruto-smile.gif" width="120"/>
