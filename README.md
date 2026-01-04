@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/12191.jpg" width="100%" />
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/12191.jpg" width="650%" />
 
 # 🔥 Jeevan Jadhav — Shinobi Portfolio 🔥
 
