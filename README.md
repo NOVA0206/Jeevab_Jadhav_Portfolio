@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/12191.jpg" width="650%" />
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/12191.jpg" width="65%" />
 
 # 🔥 Jeevan Jadhav — Shinobi Portfolio 🔥
 
@@ -65,7 +65,7 @@ A working contact form to directly reach me.
 ## 🎥 Naruto Vibe Preview
 
 <p align="center">
-  <img src="/public/projects/Website.png" width="60%"/>
+  <img src="/public/projects/Website.png" width="80%"/>
 </p>
 
 ---
